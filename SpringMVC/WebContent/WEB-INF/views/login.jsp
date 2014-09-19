@@ -6,10 +6,13 @@
 	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
 	<meta name="description" content="" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="stylesheet" href="resouser/css/bootstrap.css">
-	<link rel="stylesheet" href="resouser/css/bootstrap-responsive.css">
-	<link rel="stylesheet" href="resouser/css/estilo.css">
-	<script type="text/javascript" src="resouser/js/bootstrap.js"></script>
+	
+	
+	<link rel="stylesheet" type="text/css" href="/SpringMVC/resources/css/bootstrap.css" />
+	<link rel="stylesheet" type="text/css" href="/SpringMVC/resources/css/reponsive.css" />
+	<link rel="stylesheet" type="text/css" href="/SpringMVC/resources/css/estilo.css" />
+	<script type="text/javascript" src="/SpringMVC/resources/js/bootstrap.js"></script>
+	
 	<title>Login</title>
 </head>
 <body>
@@ -33,6 +36,5 @@
 			</button>
 		</form>
 	</div>
-
 </body>
 </html>

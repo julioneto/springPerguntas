@@ -10,6 +10,6 @@ public class OlaMundoController {
 	public String execute() {
 		ConexaoBD.getConexaoBD();
 		System.out.println(ConexaoBD.statusConnection());
-		return "ok";
+		return "/professor/professor";
 	}
 }
