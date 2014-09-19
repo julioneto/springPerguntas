@@ -18,7 +18,7 @@
 <body>
 
 <!-- 
-	<div class="container-fluid" id="topo">
+	<div class="container" id="topo">
 		<div class="row-fluid"></div>
 			<div class="span12">
 				<h2 id="titulo" style="margin-left: 92px;">Banco de Perguntas</h2>
@@ -28,7 +28,7 @@
 
 	<div class="container">
 		<form class="form-signin" method="post">
-			<h2 class="form-signin-heading" style="font-size: 30.5px;">Banco de Perguntas</h2></br>
+			<h2 class="form-signin-heading" style="font-size: 30.5px;">Banco de Perguntas</h2><br/>
 			<input type="text" class="input-block-level" placeholder="Login">
 			<input type="password" class="input-block-level" placeholder="Senha"> 
 			<button class="btn btn-large btn-primary" type="submit" style="margin-left: 101px;">

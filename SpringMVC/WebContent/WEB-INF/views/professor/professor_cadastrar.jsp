@@ -42,7 +42,7 @@
 			  <option value="5">Física</option>
 			  <option value="6">Química</option>		  
 			</select>
-			</br>
+			<br/>
 			  <input class="input-xxlarge" type="text" placeholder="Pergunta">
 			  <h3 style="position: absolute;margin-left: 562px;margin-top: -35px;">Resposta</h3>
 			  
