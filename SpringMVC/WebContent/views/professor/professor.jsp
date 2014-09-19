@@ -6,10 +6,10 @@
 	<meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
 	<meta name="deion" content="" />
 	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="stylesheet" href="../../resource/css/bootstrap.css">
-	<link rel="stylesheet" href="../../resource/css/bootstrap-responsive.css">
-	<link rel="stylesheet" href="../../resource/css/estilo_professor.css">
-	<script type="text/javascript" src="../../resource/js/bootstrap.js"></script>
+	<link rel="stylesheet" href="../../resouser/css/bootstrap.css">
+	<link rel="stylesheet" href="../../resouser/css/bootstrap-responsive.css">
+	<link rel="stylesheet" href="../../resouser/css/estilo_professor.css">
+	<script type="text/javascript" src="../../resouser/js/bootstrap.js"></script>
 	<title>Professor</title>
 </head>
 <body>
